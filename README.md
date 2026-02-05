@@ -46,18 +46,18 @@ A realtime collaborative code editor where multiple users can join a room, write
 
 ##  Project Structure
 
-REALTIME CODE/
-│
-├── backend/
-│ ├── index.mjs
-│ └── temp/ # temporary files for execution
-│
-├── frontend/
-│ └── code-editor/
-│ └── dist/ # production build
-│
-├── package.json
-└── README.md
+ REALTIME CODE/
+    │
+    ├── backend/
+    │ ├── index.mjs
+    │ └── temp/ # temporary files 
+    │
+    ├── frontend
+    │ ├── code-editor/
+    │ └── dist/ #production build
+    │
+    ├── package.json
+    └── README.md
 
 
 ---
