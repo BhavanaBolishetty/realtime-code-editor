@@ -46,7 +46,7 @@ A realtime collaborative code editor where multiple users can join a room, write
 
 ##  Project Structure
 
-  REALTIME CODE/
+REALTIME CODE/
 │
 ├── backend/
 │ ├── index.mjs
@@ -58,6 +58,7 @@ A realtime collaborative code editor where multiple users can join a room, write
 │
 ├── package.json
 └── README.md
+
 
 ---
 
