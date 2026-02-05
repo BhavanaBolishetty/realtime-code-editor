@@ -166,6 +166,8 @@ const App = () => {
       </div>
 
       <div className="editor-wrapper">
+
+        
         <Editor
           height={"100%"}
           defaultLanguage={language}
@@ -179,7 +181,7 @@ const App = () => {
           }}
           
         />
-        
+
         <button onClick={runCode} disabled={running} className="run-btn">
           {running ? "Running..." : "▶ Run"}
         </button>

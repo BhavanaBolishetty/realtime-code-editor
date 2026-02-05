@@ -59,7 +59,7 @@ body {
 
 .editor-container {
   display: flex;
-  height: 100vh;
+  height: 80vh;
 
   .sidebar {
     width: 250px;
@@ -154,8 +154,8 @@ body {
     flex-grow: 1;
     background-color: #fff;
   }
-}
 
+  
 .run-btn {
   background: #00c853;
   color: white;
@@ -172,3 +172,5 @@ body {
   height: 150px;
   overflow-y: auto;
 }
+}
+
